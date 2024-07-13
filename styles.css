@@ -6,7 +6,6 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
-    /* background-image: url('https://img.freepik.com/free-vector/abstract-geometric-round-shape-blue-background-design_1017-42785.jpg?w=996&t=st=1719804751~exp=1719805351~hmac=f1f40b78a484d8d0e4a1d767a66ccceae42e744c2ee03526264394da9bbda242'); Path to your image */
     background-image: url('Images/bg.jpg'); 
 
     background-size: cover; 
@@ -23,12 +22,12 @@ body {
     position: fixed;
     top: 0;
     width: 99.5%;
-    background-color: rgba(233, 35, 35, 0.56); 
+    background-color: rgba(0, 0, 0, 0.56); 
     padding: 20px 0;
-    color: rgb(79, 97, 216);
+    color: rgb(255, 255, 255);
     z-index: 2;
     border-radius: 7px;
-    margin-top: 3px;
+    margin-top: 6px;
 }
 
 .header-content {
@@ -139,7 +138,7 @@ footer {
 
 
 .translucent-footer {
-    background-color: rgba(203, 111, 71, 0.5); 
+    background-color: rgba(0, 0, 0, 0.5); 
     color: white;
     padding: 20px;
     text-align: center;
